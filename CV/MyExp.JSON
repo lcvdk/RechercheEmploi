@@ -1,8 +1,22 @@
-{
-    
-    
-    
-    "2001" : "Marketing Coordinator / Graphic Designer, Haas Automation Europe",
-    "2012" : "Marketing Coordinator / Lead graphic Designer, Haas Automation Europe",
-    "2016" : "Senior Marketing Coordinator / Senior Graphic Designer, Haas Automation Europe"
-} 
+{ "job" :
+    [
+        {
+            "Title": "Marketing Coordinator / Graphic Designer",
+            "company": "Haas Automation Europe",
+            "Start": "2001",
+            "End": "2012"
+        },
+        {
+            "Title": "Marketing Coordinator / Lead Graphic Designer",
+            "company": "Haas Automation Europe",
+            "Start": "2012",
+            "End": "2016"
+        },
+        {
+            "Title": "Senior Marketing Coordinator / Senior Graphic Designer",
+            "company": "Haas Automation Europe",
+            "Start": "2016",
+            "End": "2020"
+        }
+    ]
+}
